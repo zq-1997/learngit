@@ -1,2 +1,2 @@
-Git is a vetsion control system.
+Git is a disvetsion vetsion control system.
 Git is free software.
