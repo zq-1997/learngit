@@ -2,6 +2,4 @@ Git is a disvetsion vetsion control system.
 Git is free software.
 Git has a mutable index called stage.
 Git tracks changes.
-My stupid boss still prefers SVN.
-SO.
-123.
+Creating a new branch is quick.
